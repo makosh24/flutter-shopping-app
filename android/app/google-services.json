@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "864878214219",
-    "project_id": "sneex-cbc6a",
-    "storage_bucket": "sneex-cbc6a.appspot.com"
+    "project_number": "977597251657",
+    "project_id": "sneex-8cee9",
+    "storage_bucket": "sneex-8cee9.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:864878214219:android:b3d9b00b63c587ede8a1ce",
+        "mobilesdk_app_id": "1:977597251657:android:b341a862c82dd1a8e7bf98",
         "android_client_info": {
           "package_name": "com.santosenoque.untitled"
         }
       },
       "oauth_client": [
         {
-          "client_id": "864878214219-j8cl5nn2f9asttr5ak02r7g3fb62tdjd.apps.googleusercontent.com",
+          "client_id": "977597251657-hfafcot70pciesof3l73vra6attrkkl9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBhUdylNPavieHOIpuJI-KOVbuhL-6bAJM"
+          "current_key": "AIzaSyAEYS9yCwhQe7yw8uERlLfeTTrdONgV7Ds"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "864878214219-j8cl5nn2f9asttr5ak02r7g3fb62tdjd.apps.googleusercontent.com",
+              "client_id": "977597251657-hfafcot70pciesof3l73vra6attrkkl9.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
